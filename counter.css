@@ -1,0 +1,42 @@
+*{
+    font-family: Helvetica;
+
+}
+
+.wisdom{
+    background: linear-gradient(#200140, #290150);
+    height: 100vh;
+}
+
+.count{
+    display: block;
+    text-align: center;
+    font-size:10em;
+    color: #9370DB;
+}
+
+
+#everything{
+    text align: center;
+    padding-top: 100px;
+}
+
+.sweet{
+    text-align: center;
+}
+
+.badbtn{
+    width: 90px;
+    height: 30px;
+    font-size: 13px;
+    background-color: #9370DB;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    transition: background-color 0.25s;
+    cursor: pointer;
+}
+
+.badbtn:hover{
+    background-color: rgb(76, 4, 144);
+}
